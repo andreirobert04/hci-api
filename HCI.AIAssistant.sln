@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2554652F-B7D7-49F9-BA97-4405C856B1A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI.AIAssistant.API", "src\HCI.AIAssistant.API\HCI.AIAssistant.API.csproj", "{BCE1EFF4-D279-4AB5-A8CC-24A2B67D92D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE1EFF4-D279-4AB5-A8CC-24A2B67D92D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE1EFF4-D279-4AB5-A8CC-24A2B67D92D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE1EFF4-D279-4AB5-A8CC-24A2B67D92D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE1EFF4-D279-4AB5-A8CC-24A2B67D92D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BCE1EFF4-D279-4AB5-A8CC-24A2B67D92D0} = {2554652F-B7D7-49F9-BA97-4405C856B1A9}
+	EndGlobalSection
+EndGlobal
